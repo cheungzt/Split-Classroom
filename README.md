@@ -1,14 +1,14 @@
+![alt text](assets/images/gamestart.png)
+
 **After downloading the project, follow these steps to run the application:**
 
 1. **Extract the downloaded files.**
 2. **Open the 'src' folder.**
 3. **Execute the 'main.py' file.**
 
-
 # Game Introduction: Split Classroom
 
 Welcome to "Split Classroom" — a fun little game designed based on our experiences at PolyU, addressing emotional management and academic challenges through an interactive narrative. In this game, you play as a student facing various classes, teachers, and unexpected events. With each round of choices, your emotional value (P-value) will fluctuate with the development of events. The goal is to keep your P-value below 100 and successfully manage your emotions, overcoming inner anxiety and unease.
-
 
 ## Game Rules:
 
@@ -46,23 +46,23 @@ Welcome to "Split Classroom" — a fun little game designed based on our experie
 
 ## Teacher Personality Profiles:
 
-- Professor Simon (Management Class, Times: 10:30-12:30 / 13:30-17:30)
+- Teacher Simon (Management Class, Times: 10:30-12:30 / 13:30-17:30)
   - Personality: Gentle and peaceful, focusing on emotional management and encouraging students to express their feelings. He encourages you to stay calm but will also guide you when you are too nervous.
   - Impact: If you show excessive anxiety, he will suggest you calm down. Proper rest and emotional adjustment are important for you.
 
-- Professor Anthony (Theory Class, Times: 9:30-11:30 / 12:30-18:30)
+- Teacher Anthony (Theory Class, Times: 9:30-11:30 / 12:30-18:30)
   - Personality: Humorous and relaxed, with a loose classroom atmosphere. He can use humor to dissolve pressure and promote discussion among students, but he has high requirements for the depth of thought.
   - Impact: He will support you when you actively participate in discussions, but if you remain silent due to anxiety, it may affect your interaction with the teacher.
 
-- Professor David (Business Class, Times: 13:30-17:30)
+- Teacher David (Business Class, Times: 13:30-17:30)
   - Personality: Strict and demanding, with a tense classroom atmosphere. He expects quick responses from students and expresses dissatisfaction with late answers.
   - Impact: He likes to challenge students, but if you cannot respond quickly to questions, it may intensify your anxiety. Successful performance may relieve your pressure, but excessive anxiety may also lead to emotional breakdown.
 
-- Professor Gio (Technical Class, Times: 9:30-11:30 / 12:30-18:30)
+- Teacher Gio (Technical Class, Times: 9:30-11:30 / 12:30-18:30)
   - Personality: Rigorous and calm, focusing on practical operations in the classroom. He encourages students to solve problems independently but does not exert too much pressure, offering more guidance.
   - Impact: He focuses more on your problem-solving process rather than the outcome. If you encounter technical difficulties, he will provide constructive feedback, but if you choose to give up, you may feel lost.
 
-- Professor Herny (Free Discussion Class, Times: Any)
+- Mentor Herny (Free Discussion Class, Times: Any)
   - Personality: Concerned about student progress and enjoys in-depth communication with students. He pays attention to students' emotional states and provides advice based on the situation.
   - Impact: He will listen to your confusion and offer gentle guidance. Your emotional fluctuations will affect his feedback to you.
 
