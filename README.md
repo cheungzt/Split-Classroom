@@ -1,6 +1,14 @@
+**After downloading the project, follow these steps to run the application:**
+
+1. **Extract the downloaded files.**
+2. **Open the 'src' folder.**
+3. **Execute the 'main.py' file.**
+
+
 # Game Introduction: Split Classroom
 
 Welcome to "Split Classroom" — a fun little game designed based on our experiences at PolyU, addressing emotional management and academic challenges through an interactive narrative. In this game, you play as a student facing various classes, teachers, and unexpected events. With each round of choices, your emotional value (P-value) will fluctuate with the development of events. The goal is to keep your P-value below 100 and successfully manage your emotions, overcoming inner anxiety and unease.
+
 
 ## Game Rules:
 
