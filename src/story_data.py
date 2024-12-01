@@ -80,7 +80,7 @@ day2 = {
                 LANGUAGE_CN: "Anthony老师微笑着看向你，他鼓励你继续发言，尽管你的观点可能不完整，但他的眼神中流露出一丝赞许。这种轻松的反馈让你略感安心。",
                 LANGUAGE_EN: "Professor Anthony smiles at you, encouraging you to continue speaking. Although your points might not be complete, his eyes show a hint of approval. This relaxed feedback makes you feel somewhat at ease."
             },
-            "p_change": 15
+            "p_change": 20
         },
         "B": {
             "text": {
@@ -129,7 +129,7 @@ day3 = {
                 LANGUAGE_CN: "David老师看着你，似乎期待你回答得更快。你回答了问题，但David老师的眼神没有明显的赞赏，反而显得更为严厉。",
                 LANGUAGE_EN: "Professor David watches you, seemingly expecting a quicker response. You answer the question, but instead of showing obvious approval, his expression becomes even more stern."
             },
-            "p_change": 15
+            "p_change": 20
         },
         "B": {
             "text": {
@@ -143,7 +143,7 @@ day3 = {
                 LANGUAGE_CN: "David老师的严厉态度引发了你的反抗，你直接反驳了他，课堂的气氛一下变得紧张。David老师没有说话，但他那冷峻的目光让你有些不安。",
                 LANGUAGE_EN: "Professor David's strict attitude provokes your defiance, and you directly confront him, instantly making the classroom atmosphere tense. Professor David remains silent, but his stern gaze makes you feel uncomfortable."
             },
-            "p_change": 20
+            "p_change": 25
         }
     }
 }
@@ -185,7 +185,7 @@ day4 = {
                 LANGUAGE_CN: "Gio老师稍微皱了皱眉，对你放弃任务的决定表示了些许失望。",
                 LANGUAGE_EN: "Professor Gio frowns slightly, showing some disappointment at your decision to give up part of the task."
             },
-            "p_change": 10
+            "p_change": 15
         },
         "C": {
             "text": {
@@ -227,7 +227,7 @@ day5 = {
                 LANGUAGE_CN: "Henry导师皱了皱眉，沉思了一会儿，然后安慰你说学术的压力是常有的事，并给出了具体的改进建议。他的语气温和，但你能感到他有些担忧。",
                 LANGUAGE_EN: "Professor Henry furrows his brow, contemplates for a moment, then comforts you saying academic pressure is common, and offers specific suggestions for improvement. His tone is gentle, but you can sense his concern."
             },
-            "p_change": -10
+            "p_change": 10
         },
         "B": {
             "text": {
@@ -241,7 +241,7 @@ day5 = {
                 LANGUAGE_CN: "Henry导师专注于论文的具体内容，没有过多关注你的情绪。他表扬了你的工作，但你心里却有种被忽略的感觉。",
                 LANGUAGE_EN: "Professor Henry focuses on the specific content of the thesis, without paying much attention to your emotions. He praises your work, but you feel somewhat overlooked inside."
             },
-            "p_change": 15
+            "p_change": 20
         }
     }
 }
@@ -283,14 +283,14 @@ day6 = {
                 LANGUAGE_CN: "Simon老师点了点头，表示理解你的坚持，但他提醒你：'过度焦虑往往只会适得其反，试着找个平衡。'你心里有些不安，似乎无法完全放下心中的焦虑。",
                 LANGUAGE_EN: "Professor Simon nods, showing understanding of your persistence, but reminds you: 'Excessive anxiety often becomes counterproductive, try to find a balance.' You feel somewhat uneasy, unable to fully let go of your anxiety."
             },
-            "p_change": 5
+            "p_change": 15
         },
         "C": {
             "text": {
                 LANGUAGE_CN: "你向Simon老师分享了自己的一些困惑，他耐心地听完并给出了一些理性建议，鼓励你学会为自己设定合理的目标，并且在压力过大时寻求外部支持。",
                 LANGUAGE_EN: "You share your confusion with Professor Simon, who listens patiently and offers some rational advice, encouraging you to learn to set reasonable goals for yourself and seek external support when pressure becomes too much."
             },
-            "p_change": 10
+            "p_change": 15
         }
     }
 }
@@ -325,7 +325,7 @@ day7 = {
                 LANGUAGE_CN: "David老师听完后点了点头：'不错，做出决策是成功的关键，但你得确保你的每一步都经过深思熟虑。'他的话语既鼓励又不失严谨。",
                 LANGUAGE_EN: "Professor David nods after listening: 'Good, making decisions is key to success, but you must ensure each step is well thought out.' His words are both encouraging and rigorous."
             },
-            "p_change": 5
+            "p_change": 15
         },
         "B": {
             "text": {
@@ -339,7 +339,7 @@ day7 = {
                 LANGUAGE_CN: "David老师认真听你讲述后，给出了���具建设性的反馈，他建议你将大局观和细节结合起来，才可能做出最佳决策。你感到自己从中获得了一些启发。",
                 LANGUAGE_EN: "After listening to you carefully, Professor David provides more constructive feedback, suggesting that combining both the big picture and details is necessary for making the best decisions. You feel you've gained some insight from this."
             },
-            "p_change": 10
+            "p_change": 20
         }
     }
 }
